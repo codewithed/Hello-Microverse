@@ -10,6 +10,12 @@
 - HTML
 - CSS
 
+## Getting Started
+To view the project locally you will need the following:
+
+# Prerequisites
+- A web browser eg. Chrome,Safari,Firefox
+
 
 ## Author
 
